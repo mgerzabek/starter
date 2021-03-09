@@ -7,7 +7,7 @@ Ein Klick auf `Use this template` genügt und schon kann es los gehen.
 
 ## Dokumentation
 
-Ausführliche und durchsuchbare Dokumentation auf [Website](https://storyfaktor.de/klartext/).
+Ausführliche und durchsuchbare Dokumentation auf unserer [Website](https://storyfaktor.de/klartext/).
 
 ## Sicherheit
 
