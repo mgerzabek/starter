@@ -1,5 +1,5 @@
 # starter
-Das Template Repository für das StoryFaktor/Elements Theme
+Ein Template für [storyfaktor/klartext](https://github.com/storyfaktor/klartext). Starte deine Website in 2,5 Minuten. Ansprechendes textbasiertes Design.
 
 ## Installation
 
@@ -7,7 +7,7 @@ Ein Klick auf `Use this template` genügt und schon kann es los gehen.
 
 ## Dokumentation
 
-Eine ausführliche und durchsuchbare Dokumentation des Themes findest du auf unser [Website](https://storyfaktor.de/elements/)
+Ausführliche und durchsuchbare Dokumentation auf [Website](https://storyfaktor.de/klartext/).
 
 ## Sicherheit
 
@@ -35,4 +35,4 @@ Disclaimer…
 
 ## Lizenz
 
-Dieses Theme ist mit einer MIT-Lizenz (MIT) versehen. Weitere Informationen findest du in der [Lizenzdatei](LICENSE.txt).
+Dieses Template ist mit einer MIT-Lizenz (MIT) versehen. Weitere Informationen findest du in der [Lizenzdatei](LICENSE.txt).
