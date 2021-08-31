@@ -1,7 +1,8 @@
 #
 # Diese Konfigurationsdatei ist für Einstellungen gedacht, die sich auf dein
-# gesamtes Blog auswirken. Die Werte werden normalerweise einmal eingerichtet 
+# gesamtes Projekt auswirken. Die Werte werden normalerweise einmal eingerichtet 
 # und danach nur noch selten verändert. 
+#
 # Wenn du diese Datei sehr häufiger bearbeitest, solltest du die Datendateien-
 # funktion von Jekyll verwenden. Mehr dazu unter:
 # https://jekyllrb.com/docs/datafiles/
@@ -33,10 +34,10 @@
 #
 title: Titel der Website
 #
-# Autor der Website; wird auch im Impressum und bei den Betreiberdaten in der
-# Datenschutzerklärung angezeigt; verwende eine Mailadresse, die für die
-# Öffentlichkeit angelegt ist; SPAM wird in letzter Zeit kaum noch an solche
-# Adressen gesendet.
+# Autor der Website; wird bewusst unterschieden vom Betreiber (s.u.); über diese 
+# Property setzt du die Anzeigedaten für den Hauptautor der Website; verwende 
+# eine Mailadresse, die für die Öffentlichkeit angelegt ist; SPAM wird in 
+# letzter Zeit kaum noch an solche Adressen gesendet.
 #
 author:
   name: maxi
@@ -44,7 +45,15 @@ author:
   email: maxi@musterfrau.at
 #
 # Website Betreiberdaten; werden im Impressum (Pflicht) und in den Datenschutz-
-# bestimmungen angezeigt (optional); für DSGVO und ECG relevant.
+# bestimmungen angezeigt (optional); für DSGVO und ECG relevant. Im Video 
+# „Überblick DSGVO und e-Privacy“ stelle ich dir die grundlegenden Eckpfeiler
+# des Gesetzestextes zu einer ersten Orientierung vor.
+#
+# Bitte beachte: Bevor du ernsthaft ins Onlinemarketing einsteigst, solltest du
+# dir dein Impressum und deine Datenschutzerklärung von einem Rechtsanwalt 
+# absegnen lassen!
+#
+# Storyfaktor® und seine Mitarbeiter übernehmen KEINE Haftung. 
 #
 betreiber:  
   name: "Maximiliane Musterfrau"

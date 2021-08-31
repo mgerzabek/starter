@@ -1,5 +1,5 @@
 # starter
-Ein Template für [storyfaktor/klartext](https://github.com/storyfaktor/klartext). Starte deine Website in 2,5 Minuten. Ansprechendes textbasiertes Design.
+Ein Template für [mgerzabek/klartext](https://github.com/mgerzabek/klartext). Starte deine Website in 2,5 Minuten. Ansprechendes textbasiertes Design.
 
 ## Installation
 
@@ -7,7 +7,7 @@ Ein Klick auf `Use this template` genügt und schon kann es los gehen.
 
 ## Dokumentation
 
-Ausführliche und durchsuchbare Dokumentation auf unserer [Website](https://storyfaktor.de/klartext/).
+Ausführliche und durchsuchbare Dokumentation auf unserer [Website](https://michaelgerzabek.com/klartext/).
 
 ## Sicherheit
 
